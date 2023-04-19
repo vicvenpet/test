@@ -14,6 +14,21 @@ const products = [
     name: "Product 3",
     price: 29.99,
   },
+  {
+    id: 4,
+    name: "Product 1",
+    price: 9.99,
+  },
+  {
+    id: 5,
+    name: "Product 2",
+    price: 19.99,
+  },
+  {
+    id: 6,
+    name: "Product 3",
+    price: 29.99,
+  },
 ];
 
 function displayProducts() {
